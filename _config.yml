@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-kinesis-analytics.api.streamdata.gallery
+title: Streamdata Gallery AWS Kinesis Analytics
+url: aws-kinesis-analytics.streamdata.gallery
 tag: AWS Kinesis Analytics
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-kinesis-analytics
 github_branch: master
 collections:
