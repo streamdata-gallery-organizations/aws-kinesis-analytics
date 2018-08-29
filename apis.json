@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - AWS Kinesis Analytics",
+	"description": "This is a repository of aws kinesis analytics APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/aws-kinesis-analytics.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://aws-kinesis-analytics.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "AWS Kinesis Analytics",
+			"x-api-slug": "aws-kinesis-analytics",
+			"description": "Amazon Kinesis Analytics is the easiest way to process streaming data in real time with standard SQL without having to learn new programming languages or processing frameworks. Amazon Kinesis Analytics enables you to create and run SQL queries on streaming data so that you can gain actionable insights and respond to your business and customer needs promptly.Amazon Kinesis Analytics takes care of everything required to run your queries continuously and scales automatically to match the volume and throughput rate of your incoming data. With Amazon Kinesis Analytics, you only pay for the resources your queries consume. There is no minimum fee or setup cost.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png",
+			"humanURL": "https://aws.amazon.com/kinesis/analytics/",
+			"baseURL": ":///",
+			"tags": "AWS Kinesis Analytics",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-kinesis-analytics/master/_listings/aws-kinesis-analytics/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "AWS Kinesis Analytics",
+	"include": [
+		{
+			"name": "AWS Kinesis Analytics",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-kinesis-analytics/master/_listings/aws-kinesis-analytics/apis.yaml"
+		}
+	]
+}
